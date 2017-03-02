@@ -18,4 +18,4 @@ describe('Bubble Sort', function(){
     expect( sortedArr ).toEqual([1,2,4]);
   });
 
-});
+})
